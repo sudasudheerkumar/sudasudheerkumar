@@ -1,22 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sudheer Suda Portfolio</title>
-    <style>
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            overflow-x: auto; /* Horizontal scroll for long code */
-        }
-        code {
-            font-family: 'Courier New', Courier, monospace;
-            color: #333;
-        }
-    </style>
 </head>
 <body>
 
