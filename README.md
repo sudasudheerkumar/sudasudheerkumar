@@ -6,7 +6,7 @@
   <h1>👋 Hi there, I'm Sudheer Kumar Suda</h1>
   <p class="contact">
     📧 <a href="mailto:sudheersuda@gmail.com">sudasudheerkumar@gmail.com</a> |
-    🌐 <a href="https://www.linkedin.com/in/sudheersuda" target="_blank">LinkedIn</a> |
+    🌐 <a href="www.linkedin.com/in/sudasudheer" target="_blank">LinkedIn</a> |
     📱 +1 945-265-7607
   </p>
    <p>I'm passionate about <b>Machine Learning, Data Science, Large Language Models (LLMs)</b> and <b>Generative AI</b>.<br>
