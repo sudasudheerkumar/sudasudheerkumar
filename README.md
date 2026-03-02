@@ -14,7 +14,7 @@
 
   <div class="section">
     <h2>👨‍🎓🙋‍♂️ About Me 💼🎒</h2>
-    <p>I hold a Masters Degree in Data Science at <a href="https://www.pace.edu/">Pace University</a>.<br>I have 6 years of experience building and deploying <b>machine learning</b> and <b>deep learning models</b>.
+    <p>I hold a Masters Degree in Data Science at <a href="https://www.pace.edu/">Pace University</a>.<br>I have 8 years of experience building and deploying <b>machine learning</b> and <b>deep learning models</b>.
         Furthermore, I have a strong practical and theoretical experience in the development of <b>Large Language Models (LLMs)</b> and <b>Generative AI</b>.</p>
     <p>🔭 Below are some of the companies I have worked as a data scientist and a machine learning engineer:</p> 
      <ul>
