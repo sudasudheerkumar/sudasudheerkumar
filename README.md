@@ -88,8 +88,10 @@
         <li><i>And many more skills</i></li>
     </ul>
 <hr>
-    <h2>🖥 My Work Experience</h2> 
-    🏢👨‍💻 <b><a>AI Developer</a> |Ncr Atlos</b> [January2024-present] </a><br>
-    🏢👨‍💻 <b><a>Data Engineer</a> |Micron</b> [August 2018 – Nov 2022] </a></b><br>
+    <h2>🖥 My Work Experience</h2>
+    🏢👨‍💻 <b><a>AI/ML Engineer</a> |Goka Tech</b> [January2024-present] </a><br>
+    🏢👨‍💻 <b><a>AI/ML Engineer</a> |Ncr Atlos</b> [January2024-March 2025] </a><br>
+    🏢👨‍💻 <b><a>Reserch Assistant</a> |Pace University</b> [July2023- December2023] </a><br>   
+    🏢👨‍💻 <b><a>Data Engineer</a> |Micron</b> [October 2018 – November 2022] </a></b><br>
 </body></b>
 </html>
