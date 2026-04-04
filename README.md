@@ -18,7 +18,8 @@
         Furthermore, I have a strong practical and theoretical experience in the development of <b>Large Language Models (LLMs)</b> and <b>Generative AI</b>.</p>
     <p>🔭 Below are some of the companies I have worked as a data scientist and a machine learning engineer:</p> 
      <ul>
-      <b><li><i>Ncr Atlos</i></li>
+      <b><li><i>Goka Tech</i></li>
+          <li>Ncr Atlos</i></li>
           <li><i>Micron</i></li>
           <li><i>Pace University</i></li></ul></b>
     </ul>
